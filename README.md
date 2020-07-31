@@ -21,7 +21,7 @@ Over a million students have travelled from across the world to come to the Unit
 
 ### How can technology help?
 
-Online interactions are safe from the spreasd of COVID-19. Chatbots are able to provide more detailed and direct information to prospective students in real time.
+Online interactions are safe from the spread of COVID-19. Chatbots are able to provide more detailed and direct information to prospective students in real time.
 
 ### The idea
 
@@ -33,7 +33,7 @@ The International Education Assistant, developed from IBM Watson Assistant, prov
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[More detail is available here](DESCRIPTION.md).
 
 ## Getting started
 
@@ -54,11 +54,11 @@ Follow the short instructions on the chatbot. Ask any questions regarding the in
 
 ## Live demo
 
-You can find a running chatbot to test [here](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=27ac9ee4-f827-485e-90c2-b0826627f48e&serviceInstanceID=aeab0e82-1ae6-491f-881f-307286d610d1)
+You can find a running chatbot to test [here](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=27ac9ee4-f827-485e-90c2-b0826627f48e&serviceInstanceID=aeab0e82-1ae6-491f-881f-307286d610d1).
 
 ## Built with
 
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The computing platform for handling logic
+* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The computing platform for handling logic.
 * [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/) - The platform for reading the JSON file.
 
 
