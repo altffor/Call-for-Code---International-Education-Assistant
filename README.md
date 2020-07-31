@@ -45,8 +45,8 @@ IBM Watson Assistant access.
 
 ### Installing
 
-Download the [JSON file here](skill-International-Education-Assistant.json)
-Import to IBM Watson Assistant as a dialog skill.
+* Download the [JSON file here](skill-International-Education-Assistant.json).
+* Import to IBM Watson Assistant as a dialog skill.
 
 ## Running the tests
 
