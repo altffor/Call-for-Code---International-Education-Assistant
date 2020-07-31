@@ -6,8 +6,8 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
-1. [Getting started](#getting-started)
 1. [Long description](#long-description)
+1. [Getting started](#getting-started)
 1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
