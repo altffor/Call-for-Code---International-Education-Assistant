@@ -29,7 +29,7 @@ The International Education Assistant, developed from IBM Watson Assistant, prov
 
 ## Demo video
 
-[![Watch the video]](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video]](https://www.youtube.com/watch?v=qTFo8uc9eX0&feature=youtu.be)
 
 ## Long description
 
