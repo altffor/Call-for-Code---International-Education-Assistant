@@ -58,8 +58,8 @@ You can find a running chatbot to test [here](https://web-chat.global.assistant.
 
 ## Built with
 
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/) - The platform used.
+* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The computing platform for handling logic
+* [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/) - The platform for reading the JSON file.
 
 
 ## Authors
