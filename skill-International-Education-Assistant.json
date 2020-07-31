@@ -1,0 +1,4084 @@
+{
+  "intents": [
+    {
+      "intent": "SEVP",
+      "examples": [
+        {
+          "text": "Student and Exchange Visitor Program"
+        },
+        {
+          "text": "Definition of SEVP."
+        },
+        {
+          "text": "Explanation of SEVP."
+        },
+        {
+          "text": "SEVP."
+        },
+        {
+          "text": "What is SEVP."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Forms",
+      "examples": [
+        {
+          "text": "documents"
+        },
+        {
+          "text": "All forms."
+        },
+        {
+          "text": "Form list."
+        },
+        {
+          "text": "document"
+        },
+        {
+          "text": "List of all forms."
+        },
+        {
+          "text": "Form."
+        },
+        {
+          "text": "Forms."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Tests",
+      "examples": [
+        {
+          "text": "TOEFL."
+        },
+        {
+          "text": "Standardized Assessment Test."
+        },
+        {
+          "text": "American College Testing."
+        },
+        {
+          "text": "Test of English as a Foreign Language."
+        },
+        {
+          "text": "SAT."
+        },
+        {
+          "text": "ACT."
+        },
+        {
+          "text": "Test."
+        },
+        {
+          "text": "Tests."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Full_Course_of_Study",
+      "examples": [
+        {
+          "text": "How many courses should I enroll in?"
+        },
+        {
+          "text": "What is the number of units required to maintain my status?"
+        },
+        {
+          "text": "What is the class requirement for undergraduates?"
+        },
+        {
+          "text": "How many classes should I enroll for?"
+        },
+        {
+          "text": "What is a full course requirement?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DHS",
+      "examples": [
+        {
+          "text": "DHS."
+        },
+        {
+          "text": "U.S. Department of Homeland Security."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "U.S._Department_of_State",
+      "examples": [
+        {
+          "text": "U.S. Department of State."
+        },
+        {
+          "text": "USDOS."
+        },
+        {
+          "text": "DOS."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SSN",
+      "examples": [
+        {
+          "text": "Can I get a social security number?"
+        },
+        {
+          "text": "SSN"
+        },
+        {
+          "text": "Am I required to apply for a social security number?"
+        },
+        {
+          "text": "Social Security number"
+        },
+        {
+          "text": "Do I need an SSN?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ITIN",
+      "examples": [
+        {
+          "text": "Individual Taxpayer Identification Number."
+        },
+        {
+          "text": "ITIN."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "U.S._Department_of_Education",
+      "examples": [
+        {
+          "text": "U.S. Department of Education."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_I-765",
+      "examples": [
+        {
+          "text": "i765"
+        },
+        {
+          "text": "Form I-765."
+        },
+        {
+          "text": "Application for Employment Authorization."
+        },
+        {
+          "text": "Employment as a student."
+        },
+        {
+          "text": "Working off-campus."
+        },
+        {
+          "text": "Optional practical training."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Dependents",
+      "examples": [
+        {
+          "text": "Can I bring my legal partner with me on a visa?"
+        },
+        {
+          "text": "Do I get to bring my dependents with me?"
+        },
+        {
+          "text": "Can I bring my dependents to the US?"
+        },
+        {
+          "text": "Am I allowed to bring my dependents?"
+        },
+        {
+          "text": "What visa allows dependents?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_DS-2019",
+      "examples": [
+        {
+          "text": "ds-2019"
+        },
+        {
+          "text": "Certificate of Eligibilty for Exchange Visitor (J-1) Status."
+        },
+        {
+          "text": "Form DS-2019."
+        },
+        {
+          "text": "ds2019"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_I-539",
+      "examples": [
+        {
+          "text": "i539"
+        },
+        {
+          "text": "Changing my visa."
+        },
+        {
+          "text": "Staying longer."
+        },
+        {
+          "text": "Application to Extend/Change Nonimmigrant Status."
+        },
+        {
+          "text": "Form I-539."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Visa_Checklist",
+      "examples": [
+        {
+          "text": "List of items needed for visa."
+        },
+        {
+          "text": "visa documents"
+        },
+        {
+          "text": "visa checklist"
+        },
+        {
+          "text": "Is a visa available for me?"
+        },
+        {
+          "text": "Can I get a visa?"
+        },
+        {
+          "text": "What am I missing for a visa?"
+        },
+        {
+          "text": "Do I have everything for a visa?"
+        },
+        {
+          "text": "What do I need to get a visa?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Work",
+      "examples": [
+        {
+          "text": "Off-campus employment."
+        },
+        {
+          "text": "Working in the United States."
+        },
+        {
+          "text": "On-campus employment."
+        },
+        {
+          "text": "Employment."
+        },
+        {
+          "text": "Work."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_DS-160",
+      "examples": [
+        {
+          "text": "Apply for a visa online."
+        },
+        {
+          "text": "Form DS-160."
+        },
+        {
+          "text": "ds160"
+        },
+        {
+          "text": "Online Nonimmigrant Visa Application"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Online_or_Distance_Learning",
+      "examples": [
+        {
+          "text": "Online learning."
+        },
+        {
+          "text": "Distance learning."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_I-766",
+      "examples": [
+        {
+          "text": "i766"
+        },
+        {
+          "text": "Employment Authorization Document."
+        },
+        {
+          "text": "Form I-766."
+        },
+        {
+          "text": "EAD."
+        },
+        {
+          "text": "Work in the United States."
+        },
+        {
+          "text": "Employment card."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SEVIS",
+      "examples": [
+        {
+          "text": "Definition of SEVIS."
+        },
+        {
+          "text": "What is SEVIS?"
+        },
+        {
+          "text": "Student and Exchange Visitor Information System."
+        },
+        {
+          "text": "Explanation of SEVIS."
+        },
+        {
+          "text": "Electronic reporting and monitoring."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Degrees",
+      "examples": [
+        {
+          "text": "Graduate degree."
+        },
+        {
+          "text": "kinds of degrees"
+        },
+        {
+          "text": "types of degrees"
+        },
+        {
+          "text": "degrees"
+        },
+        {
+          "text": "Graduate."
+        },
+        {
+          "text": "Doctorate."
+        },
+        {
+          "text": "Master's."
+        },
+        {
+          "text": "Associate's."
+        },
+        {
+          "text": "Bachelor's."
+        },
+        {
+          "text": "Bachelor's degree."
+        },
+        {
+          "text": "Associate's degree."
+        },
+        {
+          "text": "Doctorate degree."
+        },
+        {
+          "text": "Master's degree."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "USCIS",
+      "examples": [
+        {
+          "text": "USCIS."
+        },
+        {
+          "text": "U.S. Citizenship and Immigration Services."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Visa_F",
+      "examples": [
+        {
+          "text": "F Visa."
+        },
+        {
+          "text": "Study at a U.S. college, university, or high school.."
+        },
+        {
+          "text": "Language training program visa."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Visa_J",
+      "examples": [
+        {
+          "text": "J Visa."
+        },
+        {
+          "text": "Exchange visitor."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Welcome",
+      "examples": [
+        {
+          "text": "Hi."
+        },
+        {
+          "text": "Greetings."
+        },
+        {
+          "text": "Hello."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID-19_Guidelines",
+      "examples": [
+        {
+          "text": "SARS-CoV-2."
+        },
+        {
+          "text": "SARSCoV2."
+        },
+        {
+          "text": "Severe acute respiratory syndrome coronavirus 2."
+        },
+        {
+          "text": "COVID."
+        },
+        {
+          "text": "Coronavirus."
+        },
+        {
+          "text": "COVID-19."
+        },
+        {
+          "text": "COVID19."
+        },
+        {
+          "text": "Coronavirus disease."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Visa_M",
+      "examples": [
+        {
+          "text": "Vocational studies."
+        },
+        {
+          "text": "Recognized nonacademic institution."
+        },
+        {
+          "text": "M Visa."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Consulate",
+      "examples": [
+        {
+          "text": "Consulate."
+        },
+        {
+          "text": "How do I find a consulate?"
+        },
+        {
+          "text": "Definition of embassy."
+        },
+        {
+          "text": "What is a consulate?"
+        },
+        {
+          "text": "Explanation of embassy."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Evidence_of_Financial_Support",
+      "examples": [
+        {
+          "text": "Financial ability."
+        },
+        {
+          "text": "Evidence of financial support."
+        },
+        {
+          "text": "Evidence of financial ability."
+        },
+        {
+          "text": "Financial resources."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Departments",
+      "examples": [
+        {
+          "text": "United States departments."
+        },
+        {
+          "text": "Departments."
+        },
+        {
+          "text": "U.S. departments."
+        },
+        {
+          "text": "What departments are in the U.S.?"
+        },
+        {
+          "text": "List of departments"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_I-797A",
+      "examples": [
+        {
+          "text": "Notify that the I-901 SEVIS Fee is paid."
+        },
+        {
+          "text": "Approval of reinstatement/extension of student status."
+        },
+        {
+          "text": "Form I-797A."
+        },
+        {
+          "text": "Receipt for Form I-290B."
+        },
+        {
+          "text": "Notice of Action."
+        },
+        {
+          "text": "i797a"
+        },
+        {
+          "text": "Notice of approval."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Transfer_to_Another_School",
+      "examples": [
+        {
+          "text": "Can I transfer to another school?"
+        },
+        {
+          "text": "Am I allowed to transfer to another school?"
+        },
+        {
+          "text": "How can I transfer to a different school?"
+        },
+        {
+          "text": "Is it possible for me to change my school?"
+        },
+        {
+          "text": "What is the process to transfer to another school?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_I-20",
+      "examples": [
+        {
+          "text": "How do I receive a Form I-20?"
+        },
+        {
+          "text": "Form I-20."
+        },
+        {
+          "text": "What is a Form I-20?"
+        },
+        {
+          "text": "What is the Form I-20 used for?"
+        },
+        {
+          "text": "i20"
+        },
+        {
+          "text": "Certificate of Eligibility for Nonimmigrant Student Status."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "OPT",
+      "examples": [
+        {
+          "text": "What is an OPT?"
+        },
+        {
+          "text": "optional practical training"
+        },
+        {
+          "text": "Will I get OPT?"
+        },
+        {
+          "text": "Who can get an OPT?"
+        },
+        {
+          "text": "Do I get OPT?"
+        },
+        {
+          "text": "What is the meaning of OPT?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Program_End_Date",
+      "examples": [
+        {
+          "text": "Grace period to depart."
+        },
+        {
+          "text": "Depart from United States."
+        },
+        {
+          "text": "Departure."
+        },
+        {
+          "text": "Failure to depart."
+        },
+        {
+          "text": "Leaving United States."
+        },
+        {
+          "text": "Program end date."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Annual_Vacation",
+      "examples": [
+        {
+          "text": "Annual vacation."
+        },
+        {
+          "text": "Time off."
+        },
+        {
+          "text": "Take off from school."
+        },
+        {
+          "text": "Vacation."
+        },
+        {
+          "text": "One term of vacation."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Embassy",
+      "examples": [
+        {
+          "text": "How do I find an embassy?"
+        },
+        {
+          "text": "What is an embassy?"
+        },
+        {
+          "text": "Embassy."
+        },
+        {
+          "text": "Definiton of embassy."
+        },
+        {
+          "text": "Explanation of embassy."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_I-290B",
+      "examples": [
+        {
+          "text": "Form I-290B."
+        },
+        {
+          "text": "i290b"
+        },
+        {
+          "text": "i-290b"
+        },
+        {
+          "text": "Appeal with Adiministrative Appeals Office (AAO)."
+        },
+        {
+          "text": "Notice of Appeal or Motion."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SEVP-Certified_School",
+      "examples": [
+        {
+          "text": "Is my school SEVP certified?"
+        },
+        {
+          "text": "sevp cert"
+        },
+        {
+          "text": "sevp certified"
+        },
+        {
+          "text": "SEVP school list."
+        },
+        {
+          "text": "What is an SEVP-certified school?"
+        },
+        {
+          "text": "Where do I find SEVP-certified schools?"
+        },
+        {
+          "text": "How to find SEVP school."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Driver_License",
+      "examples": [
+        {
+          "text": "Can I get a driver's license?"
+        },
+        {
+          "text": "Can I apply for a license?"
+        },
+        {
+          "text": "Am I allowed to drive in the US?"
+        },
+        {
+          "text": "Am I eligible to apply for a driver's license?"
+        },
+        {
+          "text": "Where can I apply for a license?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DSO",
+      "examples": [
+        {
+          "text": "What is a designated school offical?"
+        },
+        {
+          "text": "What do designated school officials do?"
+        },
+        {
+          "text": "DSO responsibilities."
+        },
+        {
+          "text": "What is a DSO?"
+        },
+        {
+          "text": "What is the purpose of a DSO?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Community_College",
+      "examples": [
+        {
+          "text": "Junior college."
+        },
+        {
+          "text": "Community college."
+        },
+        {
+          "text": "cc"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "I-901_SEVIS_Fee",
+      "examples": [
+        {
+          "text": "fee"
+        },
+        {
+          "text": "Cost of I-901."
+        },
+        {
+          "text": "I-901 SEVIS Fee."
+        },
+        {
+          "text": "I-901 payment."
+        },
+        {
+          "text": "i901"
+        },
+        {
+          "text": "What is I-901?"
+        },
+        {
+          "text": "I-901 fees."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Leave_of_Absence",
+      "examples": [
+        {
+          "text": "Absence."
+        },
+        {
+          "text": "Suspend enrollment."
+        },
+        {
+          "text": "Leave of absence."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Taxes",
+      "examples": [
+        {
+          "text": "Taxes."
+        },
+        {
+          "text": "Internal Revenue Service."
+        },
+        {
+          "text": "IRS."
+        },
+        {
+          "text": "Tax."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Creators",
+      "examples": [
+        {
+          "text": "goodbye"
+        },
+        {
+          "text": "Creator."
+        },
+        {
+          "text": "Creators."
+        },
+        {
+          "text": "Goodbye."
+        },
+        {
+          "text": "Bye."
+        },
+        {
+          "text": "Developer."
+        },
+        {
+          "text": "Developers."
+        },
+        {
+          "text": "bye"
+        }
+      ],
+      "description": "Creators of the assistant."
+    },
+    {
+      "intent": "Scholarships_and_Grants",
+      "examples": [
+        {
+          "text": "scholarships"
+        },
+        {
+          "text": "grants"
+        },
+        {
+          "text": "Financial aid."
+        },
+        {
+          "text": "Grant."
+        },
+        {
+          "text": "Scholarship."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "CPT",
+      "examples": [
+        {
+          "text": "Curricular Practical Training."
+        },
+        {
+          "text": "CPT."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "CBP",
+      "examples": [
+        {
+          "text": "CBP."
+        },
+        {
+          "text": "U.S. Customs and Border Protection."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ICE",
+      "examples": [
+        {
+          "text": "U.S. Immigration and Customs Enforcement."
+        },
+        {
+          "text": "ICE."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Attend_Pass_Classes",
+      "examples": [
+        {
+          "text": "How can I drop a class?"
+        },
+        {
+          "text": "How good do my grades need to be?"
+        },
+        {
+          "text": "Do I need to attend my classes?"
+        },
+        {
+          "text": "Do I have to pass all my classes?"
+        },
+        {
+          "text": "When do I have to talk to my DSO about classes?"
+        },
+        {
+          "text": "grades"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "International_Student_Life_Cycle",
+      "examples": [
+        {
+          "text": "How to study in the United States."
+        },
+        {
+          "text": "How do I start?"
+        },
+        {
+          "text": "Where do I begin?"
+        },
+        {
+          "text": "Steps to study in the United States."
+        },
+        {
+          "text": "lifecycle"
+        },
+        {
+          "text": "life cycle"
+        },
+        {
+          "text": "International student life cycle."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Nonimmigrant",
+      "examples": [
+        {
+          "text": "Nonimmigrants."
+        },
+        {
+          "text": "Nonimmigrant."
+        },
+        {
+          "text": "Not a citizen."
+        },
+        {
+          "text": "Am I a nonimmigrant?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Visa",
+      "examples": [
+        {
+          "text": "Do I need a visa?"
+        },
+        {
+          "text": "Describe a visa."
+        },
+        {
+          "text": "What is a visa?"
+        },
+        {
+          "text": "Visa description."
+        },
+        {
+          "text": "visa"
+        },
+        {
+          "text": "student visa"
+        },
+        {
+          "text": "Explain what a visa is."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Benefits",
+      "examples": [
+        {
+          "text": "Benefits."
+        },
+        {
+          "text": "Immigration benefit."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "U.S._Arrival_Documents",
+      "examples": [
+        {
+          "text": "What documents do I need to show at the time of arrival?"
+        },
+        {
+          "text": "List of documents needed when arriving to the US"
+        },
+        {
+          "text": "What documents do they check at the time of immigration?"
+        },
+        {
+          "text": "How many documents are checked at the port?"
+        },
+        {
+          "text": "What documents can the immigration officer ask for?"
+        },
+        {
+          "text": "arrival docs"
+        },
+        {
+          "text": "arrival documents"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_I-515A",
+      "examples": [
+        {
+          "text": "Form I-515A."
+        },
+        {
+          "text": "Notice to Student or Exchange Visitor."
+        },
+        {
+          "text": "Don't have the required documents on entry."
+        },
+        {
+          "text": "Temporary admittance to the United States."
+        },
+        {
+          "text": "i515a"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Form_I-94",
+      "examples": [
+        {
+          "text": "How do I receive a Form I-94?"
+        },
+        {
+          "text": "Form I-94."
+        },
+        {
+          "text": "What is a Form I-94?"
+        },
+        {
+          "text": "What is the Form I-94 used for?"
+        },
+        {
+          "text": "i94"
+        },
+        {
+          "text": "Arrival and Departure Record."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "H-1B",
+      "examples": [
+        {
+          "text": "H-1B status."
+        },
+        {
+          "text": "H-1B."
+        },
+        {
+          "text": "H1B."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Program_Start_Date",
+      "examples": [
+        {
+          "text": "When am I allowed to enter the country?"
+        },
+        {
+          "text": "When can I enter the US?"
+        },
+        {
+          "text": "arrival date"
+        },
+        {
+          "text": "Program start date."
+        },
+        {
+          "text": "When can I arrive in the US?"
+        },
+        {
+          "text": "How many days before my program can I enter the country?"
+        },
+        {
+          "text": "Can I enter the US before my classes start?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Forms",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Form I-539",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form I-765",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form I-94",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form I-797A",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form I-766",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form DS-160",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form DS-2019",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form I-20",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form I-290B",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Form I-515A",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Work",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Off-campus employment",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "On-campus employment",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Degrees",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Associate's degree",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Master's degree",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Graduate degree",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Doctorate degree",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bachelor's degree",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Departments",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "U.S. Department of State",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "U.S. Department of Education",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "DHS",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "ICE",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "USCIS",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "CBP",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Benefits",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Work",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Drive",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "SSN",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Graduate degree:</b>\n"
+              },
+              {
+                "text": "A degree type for students following a bachelor’s degree program or its equivalent. Degree types include master’s or doctorate degrees."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1595662799915",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "@Degrees:(Graduate degree)",
+      "dialog_node": "node_1_1595663043111",
+      "previous_sibling": "node_2_1595663042214",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Master's degree:</b>\n"
+              },
+              {
+                "text": "A graduate degree that requires the successful completion of the full-time equivalent of one but not more than two academic years of work beyond the bachelor's degree."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1595662799915",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "@Degrees:(Master's degree)",
+      "dialog_node": "node_10_1595663043870",
+      "previous_sibling": "node_1_1595663043111",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Bachelor's degree:</b>\n"
+              },
+              {
+                "text": "A degree offered in undergraduate programs at four-year colleges or universities."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1595662799915",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "@Degrees:(Bachelor's degree)",
+      "dialog_node": "node_2_1595663042214",
+      "previous_sibling": "node_3_1595663040931",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Doctorate degree:</b>\n"
+              },
+              {
+                "text": "The highest form of post-graduate degree that students can earn in the United States."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1595662799915",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "@Degrees:(Doctorate degree)",
+      "dialog_node": "node_5_1595663045519",
+      "previous_sibling": "node_10_1595663043870",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Associate's degree:</b>\n"
+              },
+              {
+                "text": "A degree typically offered at community or junior colleges that usually takes at least two but less than four years of full-time college work to complete."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1595662799915",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "@Degrees:(Associate's degree)",
+      "dialog_node": "node_3_1595663040931",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_10_1595649032470",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1595480165976"
+      },
+      "conditions": "@Benefits:Drive",
+      "dialog_node": "node_1_1595649163434",
+      "previous_sibling": "node_1_1595649160023",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_10_1595649032470",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1595480368814"
+      },
+      "conditions": "@Benefits:SSN",
+      "dialog_node": "node_3_1595649164753",
+      "previous_sibling": "node_1_1595649163434",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_10_1595649032470",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1595478759847"
+      },
+      "conditions": "@Benefits:Work",
+      "dialog_node": "node_1_1595649160023",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Off-campus employment:</b>\n"
+              },
+              {
+                "text": "Off-campus employment is work that takes place outside of a school campus. Off-campus employment is only available to you if you have completed at least one full academic year of your program of study and have an economic hardship that qualifies for the DHS's emergent circumstances. To work off campus, you must receive approval from your DSO, obtain an updated Form I-20 and apply for and receive employment authorization from USCIS.\n"
+              },
+              {
+                "text": "For more information, visit the <a href=\"https://studyinthestates.dhs.gov/students/working-united-states\">Working in the United States</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1595478759847",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "@Work:(Off-campus employment)",
+      "dialog_node": "node_8_1595478974681",
+      "previous_sibling": "node_3_1595478902495",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>On-campus employment:</b>\n"
+              },
+              {
+                "text": "You may apply for on-campus employment up to 30 days before the start of classes. To apply, talk to your DSO. If approved, your DSO will provide you with a letter of approval, and you should ask for a similar document from your employer. If you participate in on-campus employment, you may not work more than 20 hours per week when school is in session.\n"
+              },
+              {
+                "text": "For more information, visit the <a href=\"https://studyinthestates.dhs.gov/students/working-united-states\">Working in the United States</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1595478759847",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "@Work:(On-campus employment)",
+      "dialog_node": "node_3_1595478902495",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1595715038799",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1595714790555"
+      },
+      "conditions": "@Departments:DHS",
+      "dialog_node": "node_10_1595715701167",
+      "previous_sibling": "node_6_1595715699141",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1595715038799",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595714780689"
+      },
+      "conditions": "@Departments:(U.S. Department of Education)",
+      "dialog_node": "node_6_1595715699141",
+      "previous_sibling": "node_10_1595715697052",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1595715038799",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1595714794559"
+      },
+      "conditions": "@Departments:(U.S. Department of State)",
+      "dialog_node": "node_4_1595715703081",
+      "previous_sibling": "node_10_1595715701167",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1595715038799",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1595714748991"
+      },
+      "conditions": "@Departments:CBP",
+      "dialog_node": "node_10_1595715697052",
+      "previous_sibling": "node_3_1595715693291",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1595715038799",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1595714792629"
+      },
+      "conditions": "@Departments:ICE",
+      "dialog_node": "node_4_1595715706828",
+      "previous_sibling": "node_4_1595715703081",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1595715038799",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1595714663772"
+      },
+      "conditions": "@Departments:USCIS",
+      "dialog_node": "node_3_1595715693291",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1595477385163"
+      },
+      "conditions": "@Forms:(Form DS-2019)",
+      "dialog_node": "node_9_1595650243826",
+      "previous_sibling": "node_5_1595650229625",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1595463235251"
+      },
+      "conditions": "@Forms:(Form I-765)",
+      "dialog_node": "node_5_1595650158696",
+      "previous_sibling": "node_4_1595650142037",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1595462287975"
+      },
+      "conditions": "@Forms:(Form I-515A)",
+      "dialog_node": "node_2_1595650121262",
+      "previous_sibling": "node_1_1595650090906",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1595466479023"
+      },
+      "conditions": "@Forms:(Form I-797A)",
+      "dialog_node": "node_2_1595650192265",
+      "previous_sibling": "node_3_1595650176282",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1595477042380"
+      },
+      "conditions": "@Forms:(Form I-290B)",
+      "dialog_node": "node_8_1595650208177",
+      "previous_sibling": "node_2_1595650192265",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595477214127"
+      },
+      "conditions": "@Forms:(Form DS-160)",
+      "dialog_node": "node_5_1595650229625",
+      "previous_sibling": "node_8_1595650208177",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1595462601465"
+      },
+      "conditions": "@Forms:(Form I-539)",
+      "dialog_node": "node_4_1595650142037",
+      "previous_sibling": "node_2_1595650121262",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1595462113272"
+      },
+      "conditions": "@Forms:(Form I-94)",
+      "dialog_node": "node_1_1595650090906",
+      "previous_sibling": "node_10_1595649428163",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1595463450738"
+      },
+      "conditions": "@Forms:(Form I-766)",
+      "dialog_node": "node_3_1595650176282",
+      "previous_sibling": "node_5_1595650158696",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1595649349040",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1595455154943"
+      },
+      "conditions": "@Forms:(Form I-20)",
+      "dialog_node": "node_10_1595649428163",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Dependents:</b>\n"
+              },
+              {
+                "text": "Make sure that your DSO knows that you would like to bring your dependents with you. When you inform the DSO that your dependents will be accompanying you to the United States, the DSO will then issue a Form I-20 for each of your dependents.\n"
+              },
+              {
+                "text": "Dependents may legally accompany you to the United States or join you in the country while you study. They must apply for either an F-2 or M-2 visa.\n"
+              },
+              {
+                "text": "To learn more about bringing dependents to the U.S., you can visit the <a href=\"https://studyinthestates.dhs.gov/students/bringing-dependents-to-the-united-states\">Bringing Dependents to the United States</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Dependents",
+      "dialog_node": "node_2_1595479821819",
+      "previous_sibling": "node_6_1595478447712",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Visa:</b>\n"
+              },
+              {
+                "text": "A document issued by the Department of State that enables a student or exchange visitor to travel to a U.S. port of entry and request permission to enter the United States. Students need either an F-1 or M‑1 visa to enroll in U.S. programs of study.\n"
+              },
+              {
+                "text": "Generally, a citizen of a foreign country who wishes to enter the United States must first obtain a visa, either a nonimmigrant visa for temporary stay, or an immigrant visa for permanent residence. You must have a student visa to study in the United States. Your course of study and the type of school you plan to attend determine whether you need an F visa or an M visa.\n"
+              },
+              {
+                "text": "To learn more about applying for a student visa, visit the <a href=\"https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html\">Student Visa</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Visa",
+      "dialog_node": "node_8_1595460538526",
+      "previous_sibling": "node_5_1595747263462",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To start your studies in the United States, the following steps should be followed:\n"
+              },
+              {
+                "text": "1. Apply to an SEVP-certified school.\n"
+              },
+              {
+                "text": "2. Receive a Form I-20, \"Certificate for Eligibility for Nonimmigrant Student Status.\"\n"
+              },
+              {
+                "text": "3. Pay the I-901 SEVIS Fee.\n"
+              },
+              {
+                "text": "4. Apply for a student visa.\n"
+              },
+              {
+                "text": "5. Arrive in the United States."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 2500,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Please click the link to see the <a href=\"https://studyinthestates.dhs.gov/sites/default/files/SEVP_International%20Student%20Life%20cycle_Oct%202015.pdf\" target=\"blank\">International Student Life Cycle</a> infographic.\n"
+              },
+              {
+                "text": "To learn more about the process, ask the assistant anything related to postsecondary education in the United States.\n"
+              },
+              {
+                "text": "We highly recommend referring back to the infographic as you ask the assistant questions about the process and unfamiliar terms."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#International_Student_Life_Cycle",
+      "dialog_node": "node_10_1595449456948",
+      "previous_sibling": "Welcome",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Program start date:</b>\n"
+              },
+              {
+                "text": "​The date listed on a student’s Form I-20 when they must enroll in an academic or vocational program of study. Students can enter the United States no more than 30 days before this date and need to contact their designated school official no later than this date to inform them they are in the country."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Program_Start_Date",
+      "dialog_node": "node_5_1595478383634",
+      "previous_sibling": "node_4_1595660554240",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>U.S. Department of Homeland Security (DHS):</b>\n"
+              },
+              {
+                "text": "A federal agency whose missions include preventing terrorism and enhancing security, managing U.S. borders, administering immigration laws, securing cyberspace, and ensuring disaster resilience. Through ICE and the SEVP, DHS secures the student visa system.\n"
+              },
+              {
+                "text": "To learn more, visit the <a href=\"https://www.dhs.gov/\">DHS</a> website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#DHS",
+      "dialog_node": "node_7_1595714790555",
+      "previous_sibling": "node_6_1595714780689",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>U.S. Department of Education:</b>\n"
+              },
+              {
+                "text": "A federal agency that establishes the legislation, policies and guidance for educational institutions in the United States, primarily colleges, universities and post-secondary institutions.\n"
+              },
+              {
+                "text": "To learn more, visit the <a href=\"https://www.ed.gov/\">U.S. Department of Education</a> website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#U.S._Department_of_Education",
+      "dialog_node": "node_6_1595714780689",
+      "previous_sibling": "node_2_1595714748991",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Annual vacation:</b>\n"
+              },
+              {
+                "text": "The period of time, the equivalent of one academic term, which an F student is eligible to take off from school. F students become eligible after completing one academic year and may then take one term of vacation each following year."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Annual_Vacation",
+      "dialog_node": "node_7_1595713326021",
+      "previous_sibling": "node_1_1595479990341",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>The Student and Exchange Visitor Information System (SEVIS):</b>\n"
+              },
+              {
+                "text": "An internet-based application that facilitates timely electronic reporting and monitoring of international students and exchange visitors, as well as their dependents, in the United States. This application enables schools and program sponsors to transmit electronic information to the DHS and the U.S. Department of State throughout a student's or exchange visitor's program in the United States."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 2500,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "SEVIS is used to maintain information regarding:"
+              },
+              {
+                "text": "<ul>\n  <li>Student and Exchange Visitor Program (SEVP)-certified schools</li>\n  <li>F-1 and M-1 students studying in the United States (and their F-2 and M-2 dependents)</li>\n  <li>U.S. Department of State-designated Exchange Visitor Program sponsors</li>\n  <li>J-1 visa Exchange Visitor Program participants (and their J-2 dependents)</li>\n</ul>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#SEVIS",
+      "dialog_node": "node_7_1595456374994",
+      "previous_sibling": "node_4_1595453761439",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form I-765:</b>\n"
+              },
+              {
+                "text": "Submit Form I-765, \"Application for Employment Authorization,\" with USCIS to apply for employment authorization, such as optional practical training or off-campus employment.\n"
+              },
+              {
+                "text": "You can complete this form on the <a href=\"https://www.uscis.gov/i-765\">I-765, Application for Employment Authorization</a> page of the USCIS website.\n"
+              },
+              {
+                "text": "For more information about instances when you may need to apply for employment authorization, visit the <a href=\"https://studyinthestates.dhs.gov/students/training-opportunities-in-the-united-states\">Training Opportunities in the United States</a>  page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_I-765",
+      "dialog_node": "node_9_1595463235251",
+      "previous_sibling": "node_2_1595462601465",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Nonimmigrant:</b>\n"
+              },
+              {
+                "text": "The U.S. government uses the term nonimmigrant to refer to foreign nationals admitted into the country temporarily for a specific purpose. Once a nonimmigrant fulfills their purpose for coming to the United States, they need to either change their status or depart the country.\n"
+              },
+              {
+                "text": "International students in the United States are considered nonimmigrants because their sole purpose for being in the country is to complete a program of study at a SEVP-certified school."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Nonimmigrant",
+      "dialog_node": "node_5_1595747263462",
+      "previous_sibling": "node_3_1595704162961",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>U.S. Customs and Border Protection (CBP):</b>\n"
+              },
+              {
+                "text": "A DHS agency that secures the borders of the United States, including airports, land borders and seaports. When entering the country, F and M students go through inspections with CBP officers and must present proper documentation.\n"
+              },
+              {
+                "text": "To learn more, visit the <a href=\"https://www.cbp.gov/\">CBP</a> website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#CBP",
+      "dialog_node": "node_2_1595714748991",
+      "previous_sibling": "node_10_1595714663772",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "What else",
+      "output": {
+        "generic": [
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "<i>What else would you like to learn?</i>"
+              },
+              {
+                "text": "<i>Is there anything you would like to know more about?</i>"
+              },
+              {
+                "text": "<i>What would you like to know?</i>"
+              },
+              {
+                "text": "<i>If you have additional questions, feel free to ask the assistant.</i>"
+              },
+              {
+                "text": "<i>Is there anything you want to learn about?</i>"
+              },
+              {
+                "text": "<i>Type in a question to ask the assistant.</i>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "",
+      "dialog_node": "node_6_1595895917027",
+      "previous_sibling": "node_1_1595650761360",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "What degree would you like to learn more about?",
+            "options": [
+              {
+                "label": "Associate's degree",
+                "value": {
+                  "input": {
+                    "text": "Associate's degree"
+                  }
+                }
+              },
+              {
+                "label": "Bachelor's degree",
+                "value": {
+                  "input": {
+                    "text": "Bachelor's degree"
+                  }
+                }
+              },
+              {
+                "label": "Graduate degree",
+                "value": {
+                  "input": {
+                    "text": "Graduate degree"
+                  }
+                }
+              },
+              {
+                "label": "Master's degree",
+                "value": {
+                  "input": {
+                    "text": "Master's degree"
+                  }
+                }
+              },
+              {
+                "label": "Doctorate degree",
+                "value": {
+                  "input": {
+                    "text": "Doctorate degree"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Degrees",
+      "dialog_node": "node_10_1595662799915",
+      "previous_sibling": "node_7_1595480758091",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form DS-2019:</b>\n"
+              },
+              {
+                "text": "Form DS-2019 or \"Certificate of Eligibility for Exchange Visitor (J-1) Status\" is the basic document used in the administration of the exchange visitor program.\n"
+              },
+              {
+                "text": "This form permits a prospective exchange visitor to seek an interview at a <a href=\"https://www.usembassy.gov/\">U.S. embassy or consulate</a> in order to obtain a J visa to enter the United States."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_DS-2019",
+      "dialog_node": "node_2_1595477385163",
+      "previous_sibling": "node_6_1595477214127",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Optional Practical Training (OPT): </b>\n"
+              },
+              {
+                "text": "Temporary authorization that must relate to an F-1 student’s major or course of study. To participate, students must receive approval from their designated school official and USCIS. OPT may occur before or after the program end date, but participants may only work for 20 hours per week while school is in session.\n"
+              },
+              {
+                "text": "Eligible F-1 students can apply to receive up to 12 months of OPT employment authorization before completing their academic studies (pre-completion) and/or after completing their academic studies (post-completion).\n"
+              },
+              {
+                "text": "For more information about OPT and how to apply, refer to the <a href=\"https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-optional-practical-training-opt\">OPT</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#OPT",
+      "dialog_node": "node_7_1595479631261",
+      "previous_sibling": "node_8_1595480165976",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Tests:</b>\n"
+              },
+              {
+                "text": "In the U.S, colleges and universities establish their own admission requirements. These usually include minimum scores on third-party standardized tests.\n"
+              },
+              {
+                "text": "This includes tests such as the <a href=\"https://collegereadiness.collegeboard.org/\">Standardized Assessment Test (SAT),</a>, the <a href=\"https://www.act.org/\">American College Testing (ACT)</a>, the <a href=\"https://www.ets.org/toefl\">Test of English as a Foreign Language (TOEFL)</a>, and more.\n"
+              },
+              {
+                "text": "Follow the application requirements set by the admissions office of the schools you’re interested in applying to."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Tests",
+      "dialog_node": "node_3_1595704162961",
+      "previous_sibling": "node_7_1595720293719",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>I-901 SEVIS Fee:</b>\n"
+              },
+              {
+                "text": "The I-901 SEVIS Fee must be paid by all potential F and M students where a visa to travel to the United States is required. \n "
+              },
+              {
+                "text": "You must pay this fee before you can apply for a visa at a U.S. embassy or consulate. Once you pay your I-901 SEVIS Fee, you must print the receipt as proof of payment and take it with you to your visa appointment and when you travel to the United States.\n"
+              },
+              {
+                "text": "To learn more about the fee and how to pay, visit the <a href=\"https://fmjfee.com/i901fee/index.html\">ICE</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#I-901_SEVIS_Fee",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1595457748912",
+      "previous_sibling": "node_7_1595456374994",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Visa checklist:</b>\n"
+              },
+              {
+                "text": "Gather and prepare the following required documents before your visa interview:\n"
+              },
+              {
+                "text": "1. Passport valid for travel to the United States – Your passport must be valid for at least six months beyond your period of stay in the United States (unless exempt by country-specific agreements). Each individual who needs a visa must submit a separate application, including any family members listed in your passport.\n"
+              },
+              {
+                "text": "2. Nonimmigrant Visa Application, Form DS-160 confirmation page.\n"
+              },
+              {
+                "text": "3. Application fee payment receipt, if you are required to pay before your interview.\n"
+              },
+              {
+                "text": "4. Photo – You will upload your photo while completing the online Form DS-160.\n"
+              },
+              {
+                "text": "5. Form I-20 – Your school will send you a Form I-20 once they have entered your information in the SEVIS database. You and your school official must sign the Form I-20.  All students must be registered in the SEVIS. Your spouse and/or minor children, if they intend live in the United States with you, will each receive an individual Form I-20."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Visa_Checklist",
+      "dialog_node": "node_8_1595477590248",
+      "previous_sibling": "node_8_1595460538526",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>J visa:</b>\n"
+              },
+              {
+                "text": "The \"J\" category of visas is for exchange visitors.\n"
+              },
+              {
+                "text": "The J-1 Visa is for exchange visitors participating in an eligible exchange program.\n"
+              },
+              {
+                "text": "The J-2 Visa is for spouses and children of J-1 Visa holders."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Visa_J",
+      "dialog_node": "node_5_1595480633129",
+      "previous_sibling": "node_7_1595480663725",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Community college:</b>\n"
+              },
+              {
+                "text": "A post-secondary, undergraduate educational institution offering lower-level (freshman and sophomore) classes. These schools gear their operations more toward commuting students and do not usually have on-campus living arrangements."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Community_College",
+      "dialog_node": "node_10_1595648985479",
+      "previous_sibling": "node_10_1595662799915",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Leave of absence:</b>\n"
+              },
+              {
+                "text": "A DSO authorized absence from class that allows a student to suspend enrollment in a program of study and leave the United States, but the student intends to return and resume the program of study within five months."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Leave_of_Absence",
+      "dialog_node": "node_5_1595703879113",
+      "previous_sibling": "node_2_1595480237908",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form I-797A:</b>\n"
+              },
+              {
+                "text": "This form is a notice of approval of an application or of receipt of a submission. You may receive this form while in F or M status in any of these situations:"
+              },
+              {
+                "text": "<ul>\n  <li>If USCIS approves your Form I-539 request to change your nonimmigrant status (e.g., to F-1 from another status or from F-1 to H-1B status).</li>\n  <li>To notify you of approval of your application for reinstatement of student status or extension of status.</li>\n  <li>When you have submitted a I-901 SEVIS Fee payment, to notify you that the SEVP has received it and that the transaction is complete.</li>\n  <li>As a receipt for a filed <a href=\"https://www.uscis.gov/i-290b\">Form I-290B, “Notice of Appeal or Motion,”</a> or employment authorization.</li>\n</ul>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_I-797A",
+      "dialog_node": "node_4_1595466479023",
+      "previous_sibling": "node_1_1595463450738",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Embassy:</b>\n"
+              },
+              {
+                "text": "A Department of State office, usually located in a country’s capital city. F and M students visit embassies to apply for a visa to enter the United States.\n"
+              },
+              {
+                "text": "For more information and a list of U.S. embassies and consulates, visit the <a href=\"https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/list-of-posts.html\">List of U.S. Embassies and Consulates</a> page. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Embassy",
+      "dialog_node": "node_9_1595660550871",
+      "previous_sibling": "node_5_1595480633129",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Curricular Practical Training (CPT):</b>\n"
+              },
+              {
+                "text": "Training that an F-1 student participates in during a program of study; including alternative work/study, internship, cooperative education, or any other type of required internship or practicum offered by a sponsoring employer through cooperative agreement with a school.\n"
+              },
+              {
+                "text": "Please refer to the DHS website for further information regarding <a href=\"https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-curricular-practical-training-cpt\">CPT</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#CPT",
+      "dialog_node": "node_6_1595479671085",
+      "previous_sibling": "node_7_1595479631261",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Student and Exchange Visitor Program (SEVP):</b>\n"
+              },
+              {
+                "text": "A part of the National Security Investigations Division and acts as a bridge for government organizations that have an interest in information on nonimmigrants whose primary reason for coming to the United States is to be students.\n"
+              },
+              {
+                "text": "On behalf of the DHS, SEVP manages schools, nonimmigrant students in the F and M visa classifications and their dependents."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#SEVP",
+      "dialog_node": "node_7_1595452361206",
+      "previous_sibling": "node_10_1595449456948",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>F visa:</b>\n"
+              },
+              {
+                "text": "The \"F\" category of visas is for academic students.\n"
+              },
+              {
+                "text": "The F-1 Visa (Academic Student) allows you to enter the United States as a full-time student at an accredited college, university, seminary, conservatory, academic high school, elementary school, or other academic institution or in a language training program.\n"
+              },
+              {
+                "text": "The F-2 Visa is for spouses and children of F-1 Visa holders.\n"
+              },
+              {
+                "text": "The F-3 Visa is for Canadian or Mexican national academic commuter students."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Visa_F",
+      "dialog_node": "node_2_1595480598393",
+      "previous_sibling": "node_8_1595477590248",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form DS-160:</b>\n"
+              },
+              {
+                "text": "Form DS-160, \"Online Nonimmigrant Visa Application,\" is for temporary travel to the United States, and for K (fiancé(e)) visas. \n"
+              },
+              {
+                "text": "It is submitted electronically to the <a href=\"https://ceac.state.gov/genniv/\"> Department of State</a> website.\n"
+              },
+              {
+                "text": "Consular Officers use the information entered on the DS-160 to process the visa application and, combined with a personal interview, determine an applicant’s eligibility for a nonimmigrant visa.\n"
+              },
+              {
+                "text": "Visa applicants must submit a completed DS-160 for all nonimmigrant visa categories, including applicants applying for K visas.\n"
+              },
+              {
+                "text": "Please refer to the U.S. Department of State website for further information regarding <a href=\"https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application.html\"> Form DS-160</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_DS-160",
+      "dialog_node": "node_6_1595477214127",
+      "previous_sibling": "node_5_1595477042380",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Full course of study:</b>\n"
+              },
+              {
+                "text": "The amount of credit or clock hours required for an F-1 or M-1 student to maintain nonimmigrant status during a school session.  Enrolling in a full course of study every academic term is a requirement for F and M students to maintain their student status.\n"
+              },
+              {
+                "text": "In general, full-time for F students in an undergraduate program is 12 credit hours. In a graduate program, designated school officials certify a full course of study, which is typically six to nine credit hours. Full-time study for an F-1 student in an English as a Second Language or other non‑vocational program is 18 clock hours per week if most of the course is classroom instruction, or 22 clock hours per week if most of the course is laboratory instruction. Your DSO can provide more information."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Full_Course_of_Study",
+      "dialog_node": "node_2_1595480312825",
+      "previous_sibling": "node_2_1595479821819",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "What type of employment would you like to learn more about?",
+            "options": [
+              {
+                "label": "On-campus employment",
+                "value": {
+                  "input": {
+                    "text": "On-campus employment"
+                  }
+                }
+              },
+              {
+                "label": "Off-campus employment",
+                "value": {
+                  "input": {
+                    "text": "Off-campus employment"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Work",
+      "dialog_node": "node_3_1595478759847",
+      "previous_sibling": "node_10_1595649032470",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are required to make normal academic progress while you study in the United States. Refer to your school's requirements for information regarding necessary academic standing. \n"
+              },
+              {
+                "text": "Speak to your DSO before dropping classes. \n"
+              },
+              {
+                "text": "If school is too difficult, speak with your DSO immediately to figure out your options"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Attend_Pass_Classes",
+      "dialog_node": "node_7_1595480758091",
+      "previous_sibling": "node_10_1595704025110",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Designated school official (DSO):</b>\n"
+              },
+              {
+                "text": "Updates and maintains student records in SEVIS and helps international students avoid problems by advising them on how to follow required processes.\n"
+              },
+              {
+                "text": "If you are an F or M student studying in the United States, your DSO should be the first person you talk with if you have any questions regarding the legal requirements of your stay in the United States. Your DSO can assist in answering your questions or help you find someone who can help."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#DSO",
+      "dialog_node": "node_7_1595457024457",
+      "previous_sibling": "node_1_1595457748912",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Social Security number (SSN):</b>\n"
+              },
+              {
+                "text": "All students who receive wages from an employer, either by working or participating in a training opportunity, must apply for an SSN.\n"
+              },
+              {
+                "text": "For more information on obtaining your SSN, visit <a href=\"https://studyinthestates.dhs.gov/students/obtaining-a-social-security-number\">Obtaining a Social Security Number</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#SSN",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1595480368814",
+      "previous_sibling": "node_6_1595662304809",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Consulate:</b>\n"
+              },
+              {
+                "text": "Department of State offices headed by a Consul General who reports to the U.S. ambassador, which carry out many of the same functions in provincial or regional capitals as the embassies do in national capitals. F and M students can visit a consulate to apply for their visa to enter the United States.\n"
+              },
+              {
+                "text": "For more information and a list of U.S. embassies and consulates, visit the <a href=\"https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/list-of-posts.html\">List of U.S. Embassies and Consulates</a> page. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Consulate",
+      "dialog_node": "node_4_1595660554240",
+      "previous_sibling": "node_9_1595660550871",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Taxes:</b>\n"
+              },
+              {
+                "text": "Fees that everyone, including F and M students, must pay to the U.S. Government’s Internal Revenue Service (IRS) on any income earned while in the country, including income from wages, reception of a grant, fellowship, scholarship, interest from stock options, or lottery and gambling winnings."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Taxes",
+      "dialog_node": "node_6_1595662304809",
+      "previous_sibling": "node_3_1595478759847",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>U.S. Immigration and Customs Enforcement (ICE):</b>\n"
+              },
+              {
+                "text": "A DHS agency that promotes homeland security and public safety through the criminal and civil enforcement of federal laws governing border control, customs, trade, and immigration. Through the SEVP, ICE helps secure the foreign student visa system.\n"
+              },
+              {
+                "text": "To learn more, visit the <a href=\"https://www.ice.gov/\">ICE</a> website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#ICE",
+      "dialog_node": "node_10_1595714792629",
+      "previous_sibling": "node_7_1595714794559",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>U.S. Citizenship and Immigration Services (USCIS):</b>\n"
+              },
+              {
+                "text": "An agency within the DHS that authorizes benefits for students and exchange visitors. Students can request benefits such as employment, extending their stay, or changing status from USCIS.\n"
+              },
+              {
+                "text": "To learn more, visit the <a href=\"https://www.uscis.gov/\">USCIS</a> website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#USCIS",
+      "dialog_node": "node_10_1595714663772",
+      "previous_sibling": "node_8_1595715038799",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "What department would you like to learn more about?",
+            "options": [
+              {
+                "label": "U.S. Citizenship and Immigration Services (USCIS)",
+                "value": {
+                  "input": {
+                    "text": "USCIS"
+                  }
+                }
+              },
+              {
+                "label": "U.S. Customs and Border Protection (CBP)",
+                "value": {
+                  "input": {
+                    "text": "CBP"
+                  }
+                }
+              },
+              {
+                "label": "U.S. Department of Education",
+                "value": {
+                  "input": {
+                    "text": "U.S. Department of Education"
+                  }
+                }
+              },
+              {
+                "label": "U.S. Department of Homeland Security (DHS)",
+                "value": {
+                  "input": {
+                    "text": "DHS"
+                  }
+                }
+              },
+              {
+                "label": "U.S. Department of State",
+                "value": {
+                  "input": {
+                    "text": "U.S. Department of State"
+                  }
+                }
+              },
+              {
+                "label": "U.S. Immigration and Customs Enforcement (ICE)",
+                "value": {
+                  "input": {
+                    "text": "ICE"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Departments",
+      "dialog_node": "node_8_1595715038799",
+      "previous_sibling": "node_2_1595477385163",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Evidence of financial support:</b>\n"
+              },
+              {
+                "text": "Prospective F-1 or M-1 students must have the financial resources to live and study in the United States. This includes being able to cover the cost of tuition, books, living expenses and travel. DSOs must collect evidence of the student’s financial ability before issuing a Form I-20.\n"
+              },
+              {
+                "text": "Additionally, prospective students must bring their evidence of financial ability when applying for their student visa with the U.S. Department of State. It is also advised to have the evidence on-hand when entering the country at a U.S. port of entry, in the event a CBP officer asks to review it. \n"
+              },
+              {
+                "text": "To learn more about evidence of financial ability, visit the <a href=\"https://studyinthestates.dhs.gov/students/financial-ability\">Financial Ability</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Evidence_of_Financial_Support",
+      "dialog_node": "node_8_1595661155911",
+      "previous_sibling": "node_7_1595457024457",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form I-766:</b>\n"
+              },
+              {
+                "text": "When USCIS approves your Form I-765, you will receive a Form I-766, \"Employment Authorization Document\" (EAD) in the mail.\n"
+              },
+              {
+                "text": "This is your proof that you have authorization to work in the United States. You must carry this card with you when you travel. \n"
+              },
+              {
+                "text": "You may not begin to work until the date listed on your EAD; it also lists the date when your employment authorization ends.\n"
+              },
+              {
+                "text": "For more information about instances when you may need to apply for an EAD, visit the <a href=\"https://studyinthestates.dhs.gov/students/working-united-states\">Working in the United States</a> page. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_I-766",
+      "dialog_node": "node_1_1595463450738",
+      "previous_sibling": "node_9_1595463235251",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form I-20:</b>\n"
+              },
+              {
+                "text": "Once accepted into an SEVP-certified school, you will receive a <a href=\"https://studyinthestates.dhs.gov/students/prepare/students-and-the-form-i-20\">Form I-20, \"Certificate of Eligibility for Nonimmigrant Student Status,\"</a> from your chosen school's DSO.\n"
+              },
+              {
+                "text": "All F and M students that study in the United States need a Form I-20 to pay their I-901 SEVIS Fee, apply for a visa, enter the United States, apply for benefits, and use for employment authorization or travel.\n"
+              },
+              {
+                "text": "The Form I-20 is an important document that you should keep safe, as you will need it throughout the international student life cycle."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_I-20",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1595455154943",
+      "previous_sibling": "node_4_1595649349040",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>M visa:</b>\n"
+              },
+              {
+                "text": "The \"M\" category of visas is for vocational students.\n"
+              },
+              {
+                "text": "The M-1 Visa (Vocational Student) category includes students in vocational or other nonacademic programs, other than language training.\n"
+              },
+              {
+                "text": "The M-2 Visa is for spouses and children of M-1 Visa holders.\n"
+              },
+              {
+                "text": "The M-3 Visa is for Canadian or Mexican national academic commuter students."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Visa_M",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1595480663725",
+      "previous_sibling": "node_2_1595480598393",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Individual Taxpayer Identification Number:</b>\n"
+              },
+              {
+                "text": "A tax processing number the Internal Revenue Service (IRS) issues to an individual who needs to report income (and pay income taxes) but is ineligible to obtain a SSN from the Social Security Administration.\n"
+              },
+              {
+                "text": "To apply for an ITIN, an F or M student must submit a Form W-7, “Application for IRS Individual Taxpayer Identification Number,” with a U.S. tax return.\n"
+              },
+              {
+                "text": "To learn more, visit the <a href=\"https://studyinthestates.dhs.gov/students/individual-taxpayer-identification-number-itin\">Individual Taxpayer Identification Number (ITIN)</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#ITIN",
+      "dialog_node": "node_3_1595720117560",
+      "previous_sibling": "node_2_1595480368814",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "What form would you like to learn more about?",
+            "options": [
+              {
+                "label": "Form I-20",
+                "value": {
+                  "input": {
+                    "text": "Form I-20"
+                  }
+                }
+              },
+              {
+                "label": "Form I-94",
+                "value": {
+                  "input": {
+                    "text": "Form I-94"
+                  }
+                }
+              },
+              {
+                "label": "Form I-515A",
+                "value": {
+                  "input": {
+                    "text": "Form I-515A"
+                  }
+                }
+              },
+              {
+                "label": "Form I-539",
+                "value": {
+                  "input": {
+                    "text": "Form I-539"
+                  }
+                }
+              },
+              {
+                "label": "Form I-765",
+                "value": {
+                  "input": {
+                    "text": "Form I-765"
+                  }
+                }
+              },
+              {
+                "label": "Form I-766",
+                "value": {
+                  "input": {
+                    "text": "Form I-766"
+                  }
+                }
+              },
+              {
+                "label": "Form I-797A",
+                "value": {
+                  "input": {
+                    "text": "Form I-797A"
+                  }
+                }
+              },
+              {
+                "label": "Form I-290B",
+                "value": {
+                  "input": {
+                    "text": "Form I-290B"
+                  }
+                }
+              },
+              {
+                "label": "Form DS-160",
+                "value": {
+                  "input": {
+                    "text": "Form DS-160"
+                  }
+                }
+              },
+              {
+                "label": "Form DS-2019",
+                "value": {
+                  "input": {
+                    "text": "Form DS-2019"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Forms",
+      "dialog_node": "node_4_1595649349040",
+      "previous_sibling": "node_4_1595720199448",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>SEVP-certified schools:</b>\n"
+              },
+              {
+                "text": "Only schools certified by the SEVP can accept international students.\n"
+              },
+              {
+                "text": "You can use the <a href=\"https://studyinthestates.dhs.gov/school-search\">School Search</a> page to make sure the school you are interested in attending is SEVP certified."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#SEVP-Certified_School",
+      "dialog_node": "node_4_1595453761439",
+      "previous_sibling": "node_7_1595452361206",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>U.S. Department of State:</b>\n"
+              },
+              {
+                "text": "A federal agency that issues visas at U.S. consulates and embassies, and offers student-specific information on its websites. The U.S. Department of State also manages the J visa programs within the United States.\n"
+              },
+              {
+                "text": "To learn more, visit the <a href=\"https://www.state.gov/\">U.S. Department of State</a> website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#U.S._Department_of_State",
+      "dialog_node": "node_7_1595714794559",
+      "previous_sibling": "node_7_1595714790555",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Online/Distance learning:</b>\n"
+              },
+              {
+                "text": "Courses without physical attendance requirements that have specific rules F and M students must follow. If an online or distance course has no physical attendance requirements, F students (besides those in English language programs) may count one course towards their full course of study. F students in English language programs and M students may not count any online or distance courses towards their full course of study."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Online_or_Distance_Learning",
+      "dialog_node": "node_10_1595704025110",
+      "previous_sibling": "node_2_1595480312825",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form I-94:</b>\n"
+              },
+              {
+                "text": "The Form I-94, \"Arrival and Departure Record,\" is evidence of a nonimmigrant's term of admission and used to document legal status in the United States, including length of stay and departure.\n"
+              },
+              {
+                "text": "For more information about the Form I-94 and the arrival process in the United States, visit the <a href=\"https://www.cbp.gov/travel/international-visitors/i-94\">CBP website</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_I-94",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1595462113272",
+      "previous_sibling": "node_1_1595455154943",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The assistant could not understand your request. Could you try rewording it?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_6_1595895917027",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "What benefit would you like to learn about?",
+            "options": [
+              {
+                "label": "Working",
+                "value": {
+                  "input": {
+                    "text": "Work"
+                  }
+                }
+              },
+              {
+                "label": "Driving",
+                "value": {
+                  "input": {
+                    "text": "Drive"
+                  }
+                }
+              },
+              {
+                "label": "Obtaining an SSN",
+                "value": {
+                  "input": {
+                    "text": "SSN"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Benefits",
+      "dialog_node": "node_10_1595649032470",
+      "previous_sibling": "node_7_1595713326021",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Transferring to another school:</b>\n"
+              },
+              {
+                "text": "You may transfer to a new school if you decide that you would like to attend another SEVP-certified school.\n"
+              },
+              {
+                "text": "You must apply and be accepted into another SEVP-certified school before you begin the transfer process.\n"
+              },
+              {
+                "text": "If you want to transfer, talk with your DSO and visit the <a href=\"https://studyinthestates.dhs.gov/students/instructions-for-transferring-to-another-school-as-an-f-1-student\"> Instructions for Transferring to Another School as an F-1 Student</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Transfer_to_Another_School",
+      "dialog_node": "node_1_1595479990341",
+      "previous_sibling": "node_10_1595648985479",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Arrival documents:</b>\n"
+              },
+              {
+                "text": "A CBP officer will request for Form I-20, as well as your valid visa and passport.\n"
+              },
+              {
+                "text": "It is also advisable to keep your acceptance letter from your SEVP-certified school, your evidence of financial support, and the name and telephone number of your DSO in your carry-on baggage.\n"
+              },
+              {
+                "text": "For more information regarding the procedures for entering the U.S., visit the <a href=\"https://www.usa.gov/enter-us#item-34787\">How to Enter the U.S.</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#U.S._Arrival_Documents",
+      "dialog_node": "node_6_1595478447712",
+      "previous_sibling": "node_5_1595703879113",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form I-539:</b>\n"
+              },
+              {
+                "text": "Use Form I-539, \"Application to Extend/Change Nonimmigrant Status,\" if you want to request a change to another nonimmigrant visa status (F-2 to F-1, F-1 to H-1B, etc.), or to request reinstatement if you have fallen out of student status.\n"
+              },
+              {
+                "text": "M students must also use this form to extend nonimmigrant status or transfer to another SEVP-certified school.\n"
+              },
+              {
+                "text": "You can complete this form on the <a href=\"https://www.uscis.gov/i-539\">I-539, Application To Extend/Change Nonimmigrant Status</a> page of the USCIS website.\n"
+              },
+              {
+                "text": "For more information about applications to extend or change nonimmigrant status, please visit the <a href=\"https://studyinthestates.dhs.gov/students/complete/change-of-status\">Change of Status</a> page.\n"
+              },
+              {
+                "text": "To access a link to the online form and online filing eligibility, visit the <a href=\"https://www.uscis.gov/i539online\">Form I-539 Online</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_I-539",
+      "dialog_node": "node_2_1595462601465",
+      "previous_sibling": "node_1_1595462287975",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>H-1B status:</b>\n"
+              },
+              {
+                "text": "Temporary employment authorization for a nonimmigrant who performs services in a specialty occupation and has a bachelor’s degree or higher. Employers petition for H-1B status to USCIS on a nonimmigrant’s behalf.\n"
+              },
+              {
+                "text": "To learn more, visit the <a href=\"https://studyinthestates.dhs.gov/students/h-1b-status-and-the-cap-gap-extension\">H-1B Status and the Cap Gap Extension</a> page."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#H-1B",
+      "dialog_node": "node_4_1595720199448",
+      "previous_sibling": "node_6_1595479671085",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Driver's license:</b>\n"
+              },
+              {
+                "text": "F-1 students are eligible to apply for a driver's license. \n"
+              },
+              {
+                "text": "To acquire a driver’s license, you must apply for one at your local Department of Motor Vehicles (DMV)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Driver_License",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1595480165976",
+      "previous_sibling": "node_3_1595720117560",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form I-290B:</b>\n"
+              },
+              {
+                "text": "Form I-290B, \"Notice of Appeal or Motion\" is a form related to the Administrive Appeals Office (AAO). \n"
+              },
+              {
+                "text": "Please refer to the USCIS website for further information regarding <a href=\"https://www.uscis.gov/i-290b\"> Form I-290B</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_I-290B",
+      "dialog_node": "node_5_1595477042380",
+      "previous_sibling": "node_4_1595466479023",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We're the creators of this assistant: Harshika (Hershey) Chadha, Jaykie Tse, and Jaywood Tse. We hope our assistant has helped you through the process of applying to postsecondary education in the United States and we thank you for using it!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Creators",
+      "dialog_node": "node_1_1595650761360",
+      "previous_sibling": "node_2_1595705088968",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Scholarships and grants:</b>\n"
+              },
+              {
+                "text": "Scholarships and grants are offered by a variety of universities and organizations to students. To find out more, visit the <a href=\"https://educationusa.state.gov/find-financial-aid\">U.S. Department of State's</a> website or <a href=\"http://iefa.org/\">IEFA.org</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Scholarships_and_Grants",
+      "dialog_node": "node_7_1595720293719",
+      "previous_sibling": "node_8_1595661155911",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "As of July 24, 2020, the ICE states that: "
+              },
+              {
+                "text": "\"Nonimmigrant students in new or initial status after March 9 will not be able to enter the U.S. to enroll in a U.S. school as a nonimmigrant student for the fall term to pursue a full course of study that is 100 percent online.\" For the full statement, visit the <a href=\"https://www.ice.gov/news/releases/ice-continues-march-guidance-fall-school-term\"> ICE news releases</a> page.\n"
+              },
+              {
+                "text": "To keep up to date with the latest official news, visit the <a href=\"https://www.ice.gov/news/overview\">ICE Newsroom</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#COVID-19_Guidelines",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1595705088968",
+      "previous_sibling": "node_10_1595714792629",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Program end date:</b>\n"
+              },
+              {
+                "text": "The date listed on a student’s Form I-20 when they or are expected to complete their program of study.\n"
+              },
+              {
+                "text": "If you have maintained your status and finished a program of study or your authorized period of post-completion OPT, and you do not transfer to another SEVP-certified school, apply to change education level, or apply to change to another nonimmigrant status, you have a 60-day grace period to depart from the United States.\n"
+              },
+              {
+                "text": "Failure to depart within this grace period could adversely impact your ability to re-enter the United States under a different nonimmigrant or immigrant classification."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Program_End_Date",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1595480237908",
+      "previous_sibling": "node_5_1595478383634",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Form I-515A:</b>\n"
+              },
+              {
+                "text": "If you arrive at a U.S. port of entry without the required documents, a CBP officer may issue you Form I-515A, \"Notice to Student or Exchange Visitor.\" It allows you temporary admittance to the United States for 30 days.\n"
+              },
+              {
+                "text": "During that time you must send the required documents to the SEVP Form I-515A processing team or depart the United States. To learn more, visit the <a href=\"https://studyinthestates.dhs.gov/2013/01/what-form-i-515a\">Form I-515A Overview</a> page.\n"
+              },
+              {
+                "text": "This is very important: If you do not send the required documents to the SEVP Form I-515A processing team within 30 days, your nonimmigrant status will be terminated, and you must leave the United States immediately."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1595895917027"
+      },
+      "conditions": "#Form_I-515A",
+      "dialog_node": "node_1_1595462287975",
+      "previous_sibling": "node_1_1595462113272",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to the International Education Assistant!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 1000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "This assistant can help international students learn more about the process of applying to postsecondary education in the United States. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 1000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "To get started, ask the assistant \"steps to study in the United States.\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "welcome || #Welcome",
+      "dialog_node": "Welcome",
+      "disambiguation_opt_out": true
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "hello"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "International Education Assistant",
+  "language": "en",
+  "description": ""
+}
